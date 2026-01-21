@@ -1,0 +1,7 @@
+Changelog
+
+3.0.0
+    Adopted by Linuxgurugamer
+    Reorganized directories
+    Updated MRS patches to use new part names
+    Updated SpaceY patch to use new part names
